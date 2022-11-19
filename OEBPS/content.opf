@@ -1,0 +1,58 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uTYxUxj8FQqUHKlf6ACUSyB">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>陶淵明集</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="陶淵明">陶淵明</dc:creator>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:identifier id="uTYxUxj8FQqUHKlf6ACUSyB" opf:scheme="uuid">uTYxUxj8FQqUHKlf6ACUSyB</dc:identifier>
+    <dc:description>&lt;div&gt;
+&lt;p&gt;本電子書基於「漢川草廬」重製電子版。&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (6.8.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>古籍</dc:subject>
+    <dc:subject>集部</dc:subject>
+    <dc:subject>文集</dc:subject>
+    <dc:subject>陶淵明</dc:subject>
+    <dc:language>zh</dc:language>
+    <dc:identifier opf:scheme="calibre">d1550e38-2d1b-456a-9062-f46668255d09</dc:identifier>
+    <meta name="calibre:title_sort" content="陶淵明集"/>
+    <meta name="calibre:author_link_map" content="{&quot;陶淵明&quot;: &quot;&quot;}"/>
+    <meta name="calibre:series" content="文集"/>
+    <meta name="calibre:series_index" content="1.0"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:rating" content="10.0"/>
+  </metadata>
+  <manifest>
+    <item id="id0" href="Text/001.htm" media-type="application/xhtml+xml"/>
+    <item id="id1" href="Text/002.htm" media-type="application/xhtml+xml"/>
+    <item id="id2" href="Text/003.htm" media-type="application/xhtml+xml"/>
+    <item id="id3" href="Text/004.htm" media-type="application/xhtml+xml"/>
+    <item id="id4" href="Text/005.htm" media-type="application/xhtml+xml"/>
+    <item id="id5" href="Text/006.htm" media-type="application/xhtml+xml"/>
+    <item id="id6" href="Text/007.htm" media-type="application/xhtml+xml"/>
+    <item id="id7" href="Text/008.htm" media-type="application/xhtml+xml"/>
+    <item id="id8" href="Text/009.htm" media-type="application/xhtml+xml"/>
+    <item id="id9" href="Text/010.htm" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="boilerplate.css" href="Styles/boilerplate.css" media-type="text/css"/>
+    <item id="Layout01.css" href="Styles/Layout01.css" media-type="text/css"/>
+    <item href="OEBPS/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item id="fsung-2" href="FSung-2.ttf" media-type="application/x-font-truetype"/>
+    <item id="fsung-f" href="FSung-F.ttf" media-type="application/x-font-truetype"/>
+    <item id="noto-sc" href="NotoSerifSC-Medium.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="main.js" href="Styles/main.js" media-type="application/javascript"/>
+  </manifest>
+  <spine toc="ncx" page-progression-direction="rtl">
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+  </spine>
+  <guide>
+    </guide>
+</package>

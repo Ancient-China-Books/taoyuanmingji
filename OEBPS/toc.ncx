@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:c15117f7-8d61-5518-8022-380af14d8d55"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (6.8.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>陶淵明集</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>卷一・詩九首</text>
+      </navLabel>
+      <content src="Text/001.htm"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>卷二・詩二十九首</text>
+      </navLabel>
+      <content src="Text/002.htm"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>卷三・詩三十九首</text>
+      </navLabel>
+      <content src="Text/003.htm"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>卷四・詩四十八首</text>
+      </navLabel>
+      <content src="Text/004.htm"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5">
+      <navLabel>
+        <text>卷五・賦辭三首</text>
+      </navLabel>
+      <content src="Text/005.htm"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6">
+      <navLabel>
+        <text>卷六・記傳贊述十三首</text>
+      </navLabel>
+      <content src="Text/006.htm"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7">
+      <navLabel>
+        <text>卷七・疏祭文四首</text>
+      </navLabel>
+      <content src="Text/007.htm"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="8">
+      <navLabel>
+        <text>卷八・贊</text>
+      </navLabel>
+      <content src="Text/008.htm"/>
+    </navPoint>
+    <navPoint id="num_9" playOrder="9">
+      <navLabel>
+        <text>附錄・陶徵士誄并序</text>
+      </navLabel>
+      <content src="Text/009.htm"/>
+    </navPoint>
+    <navPoint id="num_10" playOrder="10">
+      <navLabel>
+        <text>附錄・陶淵明文集序</text>
+      </navLabel>
+      <content src="Text/010.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>
